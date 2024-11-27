@@ -6,7 +6,7 @@
 > Desenvolvedor FullStack, transformando ideias em soluções digitais.
 
 - Explorando novas tecnologias e desenvolvendo soluções de software.
-- Trabalhando como FullStack na King Solutions.
+- Trabalhando como FullStack na King Solutions and Berry Company's.
 - Aprendendo mais sobre React.js
 
 ## Minhas Skills
